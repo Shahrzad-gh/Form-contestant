@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Form</string>
+    <string name="lblPassword">Enter Your Password :</string>
+    <string name="btn_submit">Submit</string>
+</resources>
